@@ -1,0 +1,31 @@
+repo_name: watain666/clipboard2markdown
+report_id: a95d3daacab8fae1adbc58f0d733ac1b
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-30T02:19:30+00:00'
+requested_by: euangoddard
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/watain666/clipboard2markdown
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/watain666/clipboard2markdown
+  detection_source: Repo Metadata
